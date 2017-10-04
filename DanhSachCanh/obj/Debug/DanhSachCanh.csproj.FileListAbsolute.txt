@@ -1,0 +1,6 @@
+D:\Programming\winform C#\DanhSachCanh\DanhSachCanh\bin\Debug\DanhSachCanh.exe.config
+D:\Programming\winform C#\DanhSachCanh\DanhSachCanh\bin\Debug\DanhSachCanh.exe
+D:\Programming\winform C#\DanhSachCanh\DanhSachCanh\bin\Debug\DanhSachCanh.pdb
+D:\Programming\winform C#\DanhSachCanh\DanhSachCanh\obj\Debug\DanhSachCanh.csprojResolveAssemblyReference.cache
+D:\Programming\winform C#\DanhSachCanh\DanhSachCanh\obj\Debug\DanhSachCanh.exe
+D:\Programming\winform C#\DanhSachCanh\DanhSachCanh\obj\Debug\DanhSachCanh.pdb
